@@ -1,3 +1,5 @@
+/* link:-
+https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/span-of-array-official/ojquestion */
 import java.io.*;
 import java.util.*;
 
